@@ -1,6 +1,6 @@
 //1.Write a programe input from user and print
 import java.util.Scanner;
-public class Temparature {
+public class output {
 	public static void main(String[] args)
 	{
 		Scanner maww=new Scanner(System.in);
@@ -10,3 +10,4 @@ public class Temparature {
 	}
 	
 }
+
